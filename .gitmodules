@@ -1,0 +1,3 @@
+[submodule "diprem"]
+	path = diprem
+	url = git@git.vauxoo.com:vauxoo/diprem.git
