@@ -1,3 +1,21 @@
 [submodule "diprem"]
 	path = diprem
 	url = git@git.vauxoo.com:vauxoo/diprem.git
+[submodule "odoo-argentina"]
+	path = odoo-argentina
+	url = git@github.com:ingadhoc/odoo-argentina.git
+[submodule "sale"]
+	path = sale
+	url = git@github.com:ingadhoc/sale.git
+[submodule "partner-contact"]
+	path = partner-contact
+	url = git@github.com:OCA/partner-contact.git
+[submodule "account-financial-tools"]
+	path = account-financial-tools
+	url = git@github.com:ingadhoc/account-financial-tools.git
+[submodule "miscellaneous"]
+	path = miscellaneous
+	url = git@github.com:ingadhoc/miscellaneous.git
+[submodule "enterprise-extensions"]
+	path = enterprise-extensions
+	url = git@gitlab.com:ingadhoc/enterprise-extensions.git
