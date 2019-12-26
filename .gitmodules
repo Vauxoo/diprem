@@ -19,3 +19,9 @@
 [submodule "enterprise-extensions"]
 	path = enterprise-extensions
 	url = git@gitlab.com:ingadhoc/enterprise-extensions.git
+[submodule "account-payment"]
+	path = account-payment
+	url = git@github.com:ingadhoc/account-payment.git
+[submodule "aeroo_reports"]
+	path = aeroo_reports
+	url = git@github.com:aeroo/aeroo_reports.git
