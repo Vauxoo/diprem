@@ -1,27 +1,44 @@
 [submodule "diprem"]
 	path = diprem
 	url = git@git.vauxoo.com:vauxoo/diprem.git
+	branch = 12.0
 [submodule "odoo-argentina"]
 	path = odoo-argentina
 	url = git@github.com:ingadhoc/odoo-argentina.git
+	branch = 12.0
 [submodule "sale"]
 	path = sale
 	url = git@github.com:ingadhoc/sale.git
+	branch = 12.0
 [submodule "partner-contact"]
 	path = partner-contact
 	url = git@github.com:OCA/partner-contact.git
+	branch = 12.0
 [submodule "account-financial-tools"]
 	path = account-financial-tools
 	url = git@github.com:ingadhoc/account-financial-tools.git
+	branch = 12.0
 [submodule "miscellaneous"]
 	path = miscellaneous
 	url = git@github.com:ingadhoc/miscellaneous.git
+	branch = 12.0
 [submodule "enterprise-extensions"]
 	path = enterprise-extensions
 	url = git@gitlab.com:ingadhoc/enterprise-extensions.git
+	branch = 12.0
 [submodule "account-payment"]
 	path = account-payment
 	url = git@github.com:ingadhoc/account-payment.git
+	branch = 12.0
 [submodule "aeroo_reports"]
 	path = aeroo_reports
 	url = git@github.com:ingadhoc/aeroo_reports.git
+	branch = 12.0
+[submodule "partner"]
+	path = partner
+	url = git@github.com:ingadhoc/partner.git
+	branch = 12.0
+[submodule "sale-workflow"]
+	path = sale-workflow
+	url = git@github.com:OCA/sale-workflow.git
+	branch = 12.0
