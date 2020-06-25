@@ -22,10 +22,6 @@
 	path = miscellaneous
 	url = git@github.com:ingadhoc/miscellaneous.git
 	branch = 12.0
-[submodule "enterprise-extensions"]
-	path = enterprise-extensions
-	url = git@gitlab.com:vauxoo/enterprise-extensions.git
-	branch = 12.0
 [submodule "account-payment"]
 	path = account-payment
 	url = git@github.com:ingadhoc/account-payment.git
