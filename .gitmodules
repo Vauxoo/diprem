@@ -42,3 +42,6 @@
 	path = sale-workflow
 	url = git@github.com:OCA/sale-workflow.git
 	branch = 12.0
+[submodule "odoo-argentina-ee"]
+	path = odoo-argentina-ee
+	url = git@github.com:ingadhoc/odoo-argentina-ee.git
