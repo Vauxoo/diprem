@@ -42,3 +42,11 @@
 	path = odoo-argentina-ee
 	url = git@github.com:ingadhoc/odoo-argentina-ee.git
 	branch = 12.0
+[submodule "argentina-reporting"]
+	path = argentina-reporting
+	url = git@github.com:ingadhoc/argentina-reporting.git
+	branch = 12.0
+[submodule "reporting-engine"]
+	path = reporting-engine
+	url = git@github.com:ingadhoc/reporting-engine.git
+	branch = 12.0
