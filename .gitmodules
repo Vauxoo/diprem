@@ -50,3 +50,7 @@
 	path = l10n-latam-backport
 	url = git@git.vauxoo.com:vauxoo/l10n-latam-backport.git
 	branch = 12.0
+[submodule "peru"]
+	path = peru
+	url = git@git.vauxoo.com:vauxoo/peru.git
+	branch = 12.0
