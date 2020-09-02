@@ -1,6 +1,6 @@
 [submodule "diprem"]
 	path = diprem
-	url = git@git.vauxoo.com:vauxoo/diprem.git
+	url = git@git.vauxoo.com:vauxoo-dev/diprem.git
 	branch = 12.0
 [submodule "odoo-argentina"]
 	path = odoo-argentina
