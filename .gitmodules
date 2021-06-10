@@ -42,3 +42,7 @@
 	path = account-financial-tools-1
 	url = git@github.com:Vauxoo/account-financial-tools-1.git
 	branch = 12.0
+[submodule "account-invoicing"]
+	path = account-invoicing
+	url = git@github.com:ingadhoc/account-invoicing.git
+	branch = 12.0
